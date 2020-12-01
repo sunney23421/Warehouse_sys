@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{537CA247-D942-49A4-855E-AB88D4908D2B}|Default">
+  <MonoDevelop.Ide.ItemProperties.HoneMakeQRcode PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Project PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Project/FormMain.cs">
+    <Files>
+      <File FileName="Project/FormMain.cs" Line="9" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

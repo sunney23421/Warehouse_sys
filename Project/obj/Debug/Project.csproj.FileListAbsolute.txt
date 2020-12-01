@@ -1,0 +1,66 @@
+C:/Users/sunza_005/Desktop/Project/Project/bin/Debug/Project.exe.config
+C:/Users/sunza_005/Desktop/Project/Project/bin/Debug/Project.exe
+C:/Users/sunza_005/Desktop/Project/Project/bin/Debug/Project.pdb
+C:/Users/sunza_005/Desktop/Project/Project/obj/Debug/Project.csprojAssemblyReference.cache
+C:/Users/sunza_005/Desktop/Project/Project/obj/Debug/Project.Properties.Resources.resources
+C:/Users/sunza_005/Desktop/Project/Project/obj/Debug/Project.csproj.GenerateResource.cache
+C:/Users/sunza_005/Desktop/Project/Project/obj/Debug/Project.csproj.CoreCompileInputs.cache
+C:/Users/sunza_005/Desktop/Project/Project/obj/Debug/Project.exe
+C:/Users/sunza_005/Desktop/Project/Project/obj/Debug/Project.pdb
+C:/Users/sunza_005/Desktop/Project/Project/obj/Debug/Project.Form_Main.resources
+C:/Users/sunza_005/Desktop/Project/Project/obj/Debug/Project.Form_Stock_Sell.resources
+C:/Users/sunza_005/Desktop/Project/Project/bin/Debug/Microsoft.PointOfService.xml
+C:/Users/sunza_005/Desktop/Project/Project/obj/Debug/Project.csproj.CopyComplete
+C:/Users/sunza_005/Desktop/Project/Project/bin/Debug/MySql.Data.dll
+C:/Users/sunza_005/Desktop/Project/Project/bin/Debug/QR Code Scanner.exe
+C:/Users/sunza_005/Desktop/Project/Project/bin/Debug/WebCam_Capture.dll
+C:/Users/sunza_005/Desktop/Project/Project/bin/Debug/MessagingToolkit.QRCode.dll
+C:/Users/sunza_005/Desktop/Project/Project/bin/Debug/QR Code Scanner.pdb
+C:/Users/sunza_005/Desktop/Project/Project/bin/Debug/QR Code Scanner.xml
+C:/Users/sunza_005/Desktop/Project/Project/obj/Debug/Project.FormReport.resources
+C:/Users/sunza_005/Desktop/Project/Project/bin/Debug/ReadQRcode.exe
+C:/Users/sunza_005/Desktop/Project/Project/bin/Debug/AForge.Video.DirectShow.dll
+C:/Users/sunza_005/Desktop/Project/Project/bin/Debug/AForge.Controls.dll
+C:/Users/sunza_005/Desktop/Project/Project/bin/Debug/AForge.Video.dll
+C:/Users/sunza_005/Desktop/Project/Project/bin/Debug/BarcodeLib.BarcodeReader.dll
+C:/Users/sunza_005/Desktop/Project/Project/bin/Debug/AForge.dll
+C:/Users/sunza_005/Desktop/Project/Project/bin/Debug/AForge.Imaging.dll
+C:/Users/sunza_005/Desktop/Project/Project/bin/Debug/AForge.Math.dll
+C:/Users/sunza_005/Desktop/Project/Project/bin/Debug/ReadQRcode.pdb
+C:/Users/sunza_005/Desktop/Project/Project/bin/Debug/ReadQRcode.exe.config
+C:/Users/sunza_005/Desktop/Project/Project/bin/Debug/AForge.Video.DirectShow.xml
+C:/Users/sunza_005/Desktop/Project/Project/bin/Debug/AForge.Controls.xml
+C:/Users/sunza_005/Desktop/Project/Project/bin/Debug/AForge.Video.xml
+C:/Users/sunza_005/Desktop/Project/Project/bin/Debug/AForge.xml
+C:/Users/sunza_005/Desktop/Project/Project/bin/Debug/AForge.Imaging.xml
+C:/Users/sunza_005/Desktop/Project/Project/bin/Debug/AForge.Math.xml
+C:/Users/sunza_005/Desktop/Project/Project/obj/Debug/Project.Login.resources
+C:/Users/sunza_005/Desktop/Project/Project/obj/Debug/Project.FormReturn.resources
+C:/Users/sunza_005/Desktop/Project/Project/bin/Debug/zxing.dll
+C:/Users/sunza_005/Desktop/Project/Project/bin/Debug/zxing.presentation.dll
+C:/Users/sunza_005/Desktop/Project/Project/bin/Debug/zxing.pdb
+C:/Users/sunza_005/Desktop/Project/Project/bin/Debug/zxing.xml
+C:/Users/sunza_005/Desktop/Project/Project/bin/Debug/zxing.presentation.pdb
+C:/Users/sunza_005/Desktop/Project/Project/bin/Debug/zxing.presentation.xml
+/Volumes/NO NAME/Project/Project/obj/Debug/Project.csprojAssemblyReference.cache
+/Volumes/NO NAME/Project/Project/obj/Debug/Project.exe.config
+/Volumes/NO NAME/Project/Project/obj/Debug/Project.Form_Main.resources
+/Volumes/NO NAME/Project/Project/obj/Debug/Project.FormReport.resources
+/Volumes/NO NAME/Project/Project/obj/Debug/Project.FormReturn.resources
+/Volumes/NO NAME/Project/Project/obj/Debug/Project.Form_Stock_Sell.resources
+/Volumes/NO NAME/Project/Project/obj/Debug/Project.Login.resources
+/Volumes/NO NAME/Project/Project/obj/Debug/Project.Properties.Resources.resources
+/Volumes/NO NAME/Project/Project/obj/Debug/Project.csproj.GenerateResource.cache
+/Volumes/NO NAME/Project/Project/obj/Debug/Project.csproj.CoreCompileInputs.cache
+/Volumes/NO NAME/Project/Project/obj/Debug/Project.exe
+/Volumes/NO NAME/Project/Project/obj/Debug/Project.pdb
+C:\Users\User\Desktop\aaaaaaaaaaaa\zProject\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\User\Desktop\aaaaaaaaaaaa\zProject\Project\obj\Debug\Project.Form_Main.resources
+C:\Users\User\Desktop\aaaaaaaaaaaa\zProject\Project\obj\Debug\Project.FormReport.resources
+C:\Users\User\Desktop\aaaaaaaaaaaa\zProject\Project\obj\Debug\Project.FormReturn.resources
+C:\Users\User\Desktop\aaaaaaaaaaaa\zProject\Project\obj\Debug\Project.Form_Stock_Sell.resources
+C:\Users\User\Desktop\aaaaaaaaaaaa\zProject\Project\obj\Debug\Project.Login.resources
+C:\Users\User\Desktop\aaaaaaaaaaaa\zProject\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\User\Desktop\aaaaaaaaaaaa\zProject\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\User\Desktop\aaaaaaaaaaaa\zProject\Project\obj\Debug\Project.exe
+C:\Users\User\Desktop\aaaaaaaaaaaa\zProject\Project\obj\Debug\Project.pdb

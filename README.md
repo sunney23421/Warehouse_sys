@@ -1,6 +1,6 @@
 # Warehouse_system
 
-This project is about object oriented programming wiht C# :factory:
+This project is about object oriented programming with C# :factory:
 
 # What is Warehouse_system
 It is software application to keep stock, control, and manage inventory.
